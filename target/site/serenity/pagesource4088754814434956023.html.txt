@@ -1,0 +1,1041 @@
+<html class="js wf-fontawesome-n4-active wf-active wf-opensans-n3-active" lang="en-US"><head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-main.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-vendor.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-vendors.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-common.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-runtime.js" charset="UTF-8" crossorigin="*"></script><script src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-app.js" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/tftmXwdbgCvrXiHxr5HGbIaL/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-QKdptwg2yEoaJ364Xf1tD41N5ugIarSlR8uVXmTqLEi9GKMiDT694r04D18atgCC"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script async="" src="https://embed.tawk.to/57beeb7b5982876b10bd49e4/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//app.ontraport.com/js/formeditor/moonrayform/paymentplandisplay/moonrayform.paymentplandisplay.js"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="//forms.ontraport.com/v2.4/include/minify/?g=genjs-v3"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://embed.tawk.to/57beeb7b5982876b10bd49e4/default" charset="UTF-8" crossorigin="*"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://use.fontawesome.com/webfontloader/1.6.24/webfontloader.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script async="" src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f27&amp;method=script&amp;randClass=moon-ray-form-placeholder-36390"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f16&amp;method=script&amp;randClass=moon-ray-form-placeholder-45167"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f17&amp;method=script&amp;randClass=moon-ray-form-placeholder-72829"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f17&amp;method=script&amp;randClass=moon-ray-form-placeholder-35098"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f15&amp;method=script&amp;randClass=moon-ray-form-placeholder-5304"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f28&amp;method=script&amp;randClass=moon-ray-form-placeholder-45932"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f30&amp;method=script&amp;randClass=moon-ray-form-placeholder-49946"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f19&amp;method=script&amp;randClass=moon-ray-form-placeholder-86019"></script><script type="text/javascript" async="" src="https://forms.ontraport.com/v2.4/include/formEditor/genjs-v3.php?uid=p2c215361f20&amp;method=script&amp;randClass=moon-ray-form-placeholder-54115"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-2430758-1"></script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.hexacta.com/xmlrpc.php">
+
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>You searched for outsource - Hexacta - Nearshore Development Software</title>
+	<meta name="robots" content="noindex, follow">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="You searched for outsource - Hexacta - Nearshore Development Software">
+	<meta property="og:url" content="https://www.hexacta.com/search/outsource/">
+	<meta property="og:site_name" content="Hexacta - Nearshore Development Software">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.hexacta.com/#website","url":"https://www.hexacta.com/","name":"Hexacta - Nearshore Development Software","description":"We sync with your business through our deep industry expertise, the best talents, leading-edge cost effective software solutions and award-winning reputation.","potentialAction":[{"@type":"SearchAction","target":"https://www.hexacta.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":["CollectionPage","SearchResultsPage"],"@id":"#webpage","url":"","name":"You searched for outsource - Hexacta - Nearshore Development Software","isPartOf":{"@id":"https://www.hexacta.com/#website"},"breadcrumb":{"@id":"#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":[""]}]},{"@type":"BreadcrumbList","@id":"#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://www.hexacta.com/","url":"https://www.hexacta.com/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://www.hexacta.com/search/outsource/","url":"https://www.hexacta.com/search/outsource/","name":"You searched for outsource"}}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="//use.fontawesome.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="alternate" type="application/rss+xml" title="Hexacta - Nearshore Development Software » Feed" href="https://www.hexacta.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Hexacta - Nearshore Development Software » Comments Feed" href="https://www.hexacta.com/comments/feed/">
+<link rel="alternate" type="application/rss+xml" title="Hexacta - Nearshore Development Software » Search Results for “outsource” Feed" href="https://www.hexacta.com/search/outsource/feed/rss2/">
+<link rel="stylesheet" id="bxslider-css-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_0e97524a87bac1c6538097eb64f64b83.css?ver=5.5.6" type="text/css" media="">
+<link rel="stylesheet" id="kiwi-logo-carousel-styles-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_dfd1f4f7156caf69739cc817d704790e.css?ver=5.5.6" type="text/css" media="">
+<link rel="stylesheet" id="crayon-css" href="https://www.hexacta.com/wp-content/plugins/crayon-syntax-highlighter/css/min/crayon.min.css?ver=_2.7.2_beta" type="text/css" media="all">
+<link rel="stylesheet" id="easy-modal-site-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_5cc580b85ea75c54828dfe5f9343e3dc.css?ver=0.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="https://www.hexacta.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_a2e915fb21387a23a3578cb1b2b5a724.css?ver=5.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="easingslider-css" href="https://www.hexacta.com/wp-content/plugins/easing-slider/assets/css/public.min.css?ver=3.0.8" type="text/css" media="all">
+<link rel="stylesheet" id="wpa-css-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_9ff444ede16923e0a817eced59bcd359.css?ver=1.1" type="text/css" media="all">
+<link rel="stylesheet" id="pgafu-public-style-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_b42635a2a756a38ea6f125fa96a2a6e1.css?ver=1.3" type="text/css" media="all">
+<link rel="stylesheet" id="reFaderStylesheet-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_b0345ee44d642bfbc19c71ac50b494a4.css?ver=5.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_73d29ecb3ae4eb2b78712fab3a46d32d.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="slb_core-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_47f1feb5aaf7fb422aad353e698138de.css?ver=2.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="wm-fonticons-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_7979863ffdba8d85909ba3793edaa15d.css?ver=1.5.9" type="text/css" media="screen">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.hexacta.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css?ver=1.15.0" type="text/css" media="all">
+<style id="popup-maker-site-inline-css" type="text/css">
+/* Popup Google Fonts */
+@import url('//fonts.googleapis.com/css?family=Acme|Montserrat');
+
+/* Popup Theme 20736: Content Only - For use with page builders or block editor */
+.pum-theme-20736, .pum-theme-content-only { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-20736 .pum-container, .pum-theme-content-only .pum-container { padding: 0px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ) } 
+.pum-theme-20736 .pum-title, .pum-theme-content-only .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-20736 .pum-content, .pum-theme-content-only .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-20736 .pum-content + .pum-close, .pum-theme-content-only .pum-content + .pum-close { position: absolute; height: 18px; width: 18px; left: auto; right: 7px; bottom: auto; top: 7px; padding: 0px; color: #000000; font-family: inherit; font-weight: 700; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 15px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.00 ); background-color: rgba( 255, 255, 255, 0.00 ) } 
+
+/* Popup Theme 20735: Floating Bar - Soft Blue */
+.pum-theme-20735, .pum-theme-floating-bar {  } 
+.pum-theme-20735 .pum-container, .pum-theme-floating-bar .pum-container { padding: px; border-radius: px; border: px  ; box-shadow: px px px px rgba( 0, 0, 0, 0.00 ) } 
+.pum-theme-20735 .pum-title, .pum-theme-floating-bar .pum-title { text-shadow: px px px rgba( 0, 0, 0, 0.00 ); font-size: px; line-height: px } 
+.pum-theme-20735 .pum-content, .pum-theme-floating-bar .pum-content {  } 
+.pum-theme-20735 .pum-content + .pum-close, .pum-theme-floating-bar .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: auto; bottom: auto; top: auto; padding: px; font-size: px; line-height: px; border: px  ; border-radius: px; box-shadow: px px px px rgba( 0, 0, 0, 0.00 ); text-shadow: px px px rgba( 0, 0, 0, 0.00 ) } 
+
+/* Popup Theme 14005: Light Box */
+.pum-theme-14005, .pum-theme-lightbox { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-14005 .pum-container, .pum-theme-lightbox .pum-container { padding: 40px; border-radius: 0px; border: 8px none ; box-shadow: 0px 0px 30px 0px rgba( 2, 2, 2, 1.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-14005 .pum-title, .pum-theme-lightbox .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-14005 .pum-content, .pum-theme-lightbox .pum-content { color: #000000; font-family: inherit } 
+.pum-theme-14005 .pum-content + .pum-close, .pum-theme-lightbox .pum-content + .pum-close { position: absolute; height: 30px; width: 30px; left: auto; right: 10px; bottom: auto; top: 10px; padding: 0px; color: #0a0a0a; font-family: Tahoma; font-size: 20px; line-height: 20px; border: 0px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.75 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+/* Popup Theme 14008: Cutting Edge */
+.pum-theme-14008, .pum-theme-cutting-edge { background-color: rgba( 0, 0, 0, 0.50 ) } 
+.pum-theme-14008 .pum-container, .pum-theme-cutting-edge .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 0px 10px 25px 0px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 30, 115, 190, 1.00 ) } 
+.pum-theme-14008 .pum-title, .pum-theme-cutting-edge .pum-title { color: #ffffff; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Sans-Serif; font-size: 26px; line-height: 28px } 
+.pum-theme-14008 .pum-content, .pum-theme-cutting-edge .pum-content { color: #ffffff; font-family: inherit } 
+.pum-theme-14008 .pum-content + .pum-close, .pum-theme-cutting-edge .pum-content + .pum-close { position: absolute; height: 24px; width: 24px; left: auto; right: 0px; bottom: auto; top: 0px; padding: 0px; color: #1e73be; font-family: inherit; font-size: 32px; line-height: 24px; border: 1px none #ffffff; border-radius: 0px; box-shadow: -1px 1px 1px 0px rgba( 2, 2, 2, 0.10 ); text-shadow: -1px 1px 1px rgba( 0, 0, 0, 0.10 ); background-color: rgba( 238, 238, 34, 1.00 ) } 
+
+/* Popup Theme 14009: Framed Border */
+.pum-theme-14009, .pum-theme-framed-border { background-color: rgba( 255, 255, 255, 0.50 ) } 
+.pum-theme-14009 .pum-container, .pum-theme-framed-border .pum-container { padding: 18px; border-radius: 0px; border: 20px outset #dd3333; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.97 ) inset; background-color: rgba( 255, 251, 239, 1.00 ) } 
+.pum-theme-14009 .pum-title, .pum-theme-framed-border .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 32px; line-height: 36px } 
+.pum-theme-14009 .pum-content, .pum-theme-framed-border .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-14009 .pum-content + .pum-close, .pum-theme-framed-border .pum-content + .pum-close { position: absolute; height: 20px; width: 20px; left: auto; right: -20px; bottom: auto; top: -20px; padding: 0px; color: #ffffff; font-family: Acme; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 0, 0, 0.55 ) } 
+
+/* Popup Theme 14004: Default Theme */
+.pum-theme-14004, .pum-theme-default-theme { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-14004 .pum-container, .pum-theme-default-theme .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-14004 .pum-title, .pum-theme-default-theme .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: inherit; font-size: 32px; font-style: normal; line-height: 36px } 
+.pum-theme-14004 .pum-content, .pum-theme-default-theme .pum-content { color: #8c8c8c; font-family: inherit; font-weight: inherit; font-style: normal } 
+.pum-theme-14004 .pum-content + .pum-close, .pum-theme-default-theme .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: inherit; font-size: 12px; font-style: normal; line-height: 14px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+/* Popup Theme 14006: Enterprise Blue */
+.pum-theme-14006, .pum-theme-enterprise-blue { background-color: rgba( 0, 0, 0, 0.70 ) } 
+.pum-theme-14006 .pum-container, .pum-theme-enterprise-blue .pum-container { padding: 28px; border-radius: 5px; border: 1px none #000000; box-shadow: 0px 10px 25px 4px rgba( 2, 2, 2, 0.50 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-14006 .pum-title, .pum-theme-enterprise-blue .pum-title { color: #315b7c; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-size: 34px; line-height: 36px } 
+.pum-theme-14006 .pum-content, .pum-theme-enterprise-blue .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-14006 .pum-content + .pum-close, .pum-theme-enterprise-blue .pum-content + .pum-close { position: absolute; height: 28px; width: 28px; left: auto; right: 8px; bottom: auto; top: 8px; padding: 4px; color: #ffffff; font-family: inherit; font-size: 20px; line-height: 20px; border: 1px none #ffffff; border-radius: 42px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 49, 91, 124, 1.00 ) } 
+
+/* Popup Theme 14007: Hello Box */
+.pum-theme-14007, .pum-theme-hello-box { background-color: rgba( 0, 0, 0, 0.75 ) } 
+.pum-theme-14007 .pum-container, .pum-theme-hello-box .pum-container { padding: 30px; border-radius: 80px; border: 14px solid #81d742; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.00 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-14007 .pum-title, .pum-theme-hello-box .pum-title { color: #2d2d2d; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: Montserrat; font-size: 32px; line-height: 36px } 
+.pum-theme-14007 .pum-content, .pum-theme-hello-box .pum-content { color: #2d2d2d; font-family: inherit } 
+.pum-theme-14007 .pum-content + .pum-close, .pum-theme-hello-box .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: -30px; bottom: auto; top: -30px; padding: 0px; color: #2d2d2d; font-family: inherit; font-size: 32px; line-height: 28px; border: 1px none #ffffff; border-radius: 28px; box-shadow: 0px 0px 0px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 255, 255, 255, 1.00 ) } 
+
+#pum-22339 {z-index: 1999999999}
+#pum-21735 {z-index: 1999999999}
+#pum-18221 {z-index: 1999999999}
+#pum-14010 {z-index: 1999999999}
+#pum-16968 {z-index: 1999999999}
+#pum-17390 {z-index: 1999999999}
+#pum-20010 {z-index: 1999999999}
+
+</style>
+<link rel="stylesheet" id="video-js-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_f0efa69b01f044b768ab790c31e66946.css?ver=5.20.5" type="text/css" media="all">
+<link rel="stylesheet" id="video-js-kg-skin-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_52e1c56b74a02ca3e29a22e9e4a7ac6d.css?ver=4.6.27" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://www.hexacta.com/wp-includes/css/dashicons.min.css?ver=5.5.6" type="text/css" media="all">
+<link rel="stylesheet" id="kgvid_video_styles-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_9a661827d6e265894511f50652059f5c.css?ver=4.6.27" type="text/css" media="all">
+<link rel="stylesheet" id="wm-google-fonts-css" href="//fonts.googleapis.com/css?family=Montserrat&amp;ver=1.2.1#038;subset=latin" type="text/css" media="all">
+<link rel="stylesheet" id="wm-stylesheet-global-css" href="//www.hexacta.com/wp-content/uploads/wmtheme-forstron/global.css?ver=1.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wm-stylesheet-css" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_bfc80af3e647da2382f3acc9732f5daf.css?ver=1.2.1" type="text/css" media="all">
+<style id="wm-stylesheet-inline-css" type="text/css">
+.intro { padding-bottom: 25%; } .intro-inner { background: url(https://www.hexacta.com/wp-content/uploads/2015/09/post-img-duo11.jpg) 0px -150px no-repeat!important; background-size: cover!important; }
+
+</style>
+
+
+
+
+
+
+<script type="text/javascript" src="https://use.fontawesome.com/688e25d097.js?ver=5.5.6" id="font-awesome-js"></script>
+
+
+
+
+
+
+
+
+
+
+<link rel="https://api.w.org/" href="https://www.hexacta.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.hexacta.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.hexacta.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.5.6">
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '8ecc7f5ecc';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.hexacta.com/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+				
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><!-- BEGIN Hackadelic Sliding Notes 1.6.5 -->
+<style type="text/css">
+.concealed { display: none }
+.block { display: block }
+</style>
+<!-- END Hackadelic Sliding Notes 1.6.5 -->
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+<style>
+	.fl-row-bg-video .fl-bg-video video {
+		object-fit: cover;
+	}
+</style>
+
+<!-- Bootstrap Core CSS -->
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/themes/forstron/lib/css/bootstrap.min.css">
+<!-- Vendor CSS -->
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_07f146141537e04ee282a965d8053198.css">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_13b1b6672b8cfb0d9ae7f899f1c42875.css">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/themes/forstron/lib/css/slick-theme.min.css">
+<!-- Hexacta CSS -->
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_ef85e05f02cc6a0730a8eeba2e1d1c60.css">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_6e1aa3e0a67a5b8771968b3fd0e22c26.css">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_b32f5cfad0a227209f7016d659e143b4.css">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_a8d50d89fc8486efede71f9c82d07405.css" type="text/css">
+
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/plugins/popup-maker/assets/css/pum-site.min.css" type="text/css">
+<link rel="stylesheet" href="https://www.hexacta.com/wp-content/cache/autoptimize/css/autoptimize_single_fd91c5168ce13bf1b66a553e4477aba9.css">
+
+<!--Start of Tawk.to Script-->
+
+<!--End of Tawk.to Script--><link rel="stylesheet" href="https://use.fontawesome.com/688e25d097.css" media="all">
+
+<style>#boxzilla-overlay,.boxzilla-overlay{position:fixed;background:rgba(0,0,0,.65);width:100%;height:100%;left:0;top:0;z-index:10000}.boxzilla-center-container{position:fixed;top:0;left:0;right:0;height:0;text-align:center;z-index:11000;line-height:0}.boxzilla-center-container .boxzilla{display:inline-block;text-align:left;position:relative;line-height:normal}.boxzilla{position:fixed;z-index:12000;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;background:#fff;padding:25px}.boxzilla.boxzilla-top-left{top:0;left:0}.boxzilla.boxzilla-top-right{top:0;right:0}.boxzilla.boxzilla-bottom-left{bottom:0;left:0}.boxzilla.boxzilla-bottom-right{bottom:0;right:0}.boxzilla-content>:first-child{margin-top:0;padding-top:0}.boxzilla-content>:last-child{margin-bottom:0;padding-bottom:0}.boxzilla-close-icon{position:absolute;right:0;top:0;text-align:center;padding:6px;cursor:pointer;-webkit-appearance:none;font-size:28px;font-weight:700;line-height:20px;color:#000;opacity:.5}.boxzilla-close-icon:focus,.boxzilla-close-icon:hover{opacity:.8}</style><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300&amp;subset=latin" media="all"><script src="https://optassets.ontraport.com/opt_assets/scripts/logging.js" async=""></script><script src="https://Hexacta1.ontraport.com/track.php?mid=215361&amp;llc=https://www.hexacta.com/?s=outsource&amp;s=p0897ywj1xjg4vwz0hkw&amp;l=www.hexacta.com/&amp;ti=You%20searched%20for%20outsource%20-%20Hexacta%20-%20Nearshore%20Development%20Software&amp;forms%5Bp2c215361f20%5D=1&amp;forms%5Bp2c215361f19%5D=1&amp;forms%5Bp2c215361f30%5D=1&amp;forms%5Bp2c215361f28%5D=1&amp;forms%5Bp2c215361f15%5D=1&amp;forms%5Bp2c215361f17%5D=1&amp;forms%5Bp2c215361f17%5D=1&amp;forms%5Bp2c215361f16%5D=1&amp;forms%5Bp2c215361f27%5D=1&amp;is_unique=0"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-2d0d2b7c.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-2d224aff.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-f1596d96.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-48f46bef.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-4fe9d5dd.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-2d0b9454.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-f163fcd0.js"></script><script charset="utf-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/js/twk-chunk-35f53b3a.js"></script><style type="text/css">#kaj8b6j87fdo1fgk4kogj {outline:none !important;
+visibility:visible !important;
+resize:none !important;
+box-shadow:none !important;
+overflow:visible !important;
+background:none !important;
+opacity:1 !important;
+filter:alpha(opacity=100) !important;
+-ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important;
+-mz-opacity:1 !important;
+-khtml-opacity:1 !important;
+top:auto !important;
+right:0px !important;
+bottom:0px !important;
+left:auto !important;
+position:fixed !important;
+border:0 !important;
+min-height:0px  !important;
+min-width:0px  !important;
+max-height:none  !important;
+max-width:none  !important;
+padding:0px !important;
+margin:0px !important;
+-moz-transition-property:none !important;
+-webkit-transition-property:none !important;
+-o-transition-property:none !important;
+transition-property:none !important;
+transform:none !important;
+-webkit-transform:none !important;
+-ms-transform:none !important;
+width:auto !important;
+height:auto  !important;
+display:block !important;
+z-index:2000000000 !important;
+background-color:transparent !important;
+cursor:none !important;
+float:none !important;
+border-radius:unset !important;
+pointer-events:auto !important;
+clip:auto !important;}</style><style type="text/css">@keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-moz-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}@-webkit-keyframes tawkMaxOpen{0%{opacity:0;transform:translate(0, 30px);;}to{opacity:1;transform:translate(0, 0px);}}#i9ld13um105g1fgk4koj4.open{animation : tawkMaxOpen .25s ease!important;}@keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-moz-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}@-webkit-keyframes tawkMaxClose{from{opacity: 1;transform:translate(0, 0px);;}to{opacity: 0;transform:translate(0, 30px);;}}#i9ld13um105g1fgk4koj4.closed{animation: tawkMaxClose .25s ease!important}</style></head>
+<body data-rsssl="1" id="top" class="do-parallax-intro do-sticky-header header-layout-normal is-posts-list not-front-page search search-results site-layout-fullwidth sticky-header" data-op-tracked="true">
+<div id="page" class="hfeed site">
+	<div class="site-inner">
+
+
+<header id="masthead" class="site-header normal sticky" role="banner" itemscope="" itemtype="http://schema.org/WPHeader"><div class="inner-wrapper clearfix">
+
+<div class="site-branding"><div class="site-title logo type-text styled"><a href="https://www.hexacta.com/" title="Hexacta - Nearshore Development Software | We sync with your business through our deep industry expertise, the best talents, leading-edge cost effective software solutions and award-winning reputation."><span class="text-logo"><img alt="Hexacta Logo" data-src="https://www.hexacta.com/wp-content/uploads/2015/06/hexacta.png" class=" ls-is-cached lazyloaded" src="https://www.hexacta.com/wp-content/uploads/2015/06/hexacta.png"><noscript><img alt="Hexacta Logo" src="https://www.hexacta.com/wp-content/uploads/2015/06/hexacta.png"></noscript></span></a></div></div><nav id="site-navigation" class="main-navigation" role="navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement"><span class="screen-reader-text">Hexacta - Nearshore Development Software site navigation</span><a class="skip-link screen-reader-text" href="#content">Skip to content</a><div class="main-navigation-inner"><div class="menu"><ul><li id="menu-item-8113" class="megamenu columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8113"><a>Company</a>
+<ul class="sub-menu">
+	<li id="menu-item-6909" class="displayNone menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6909"><a href="http://-">–</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6904 menu-item-has-description"><a href="https://www.hexacta.com/about-us/">About us<span class="menu-item-description">Leaders in IT consulting and software development.</span></a></li>
+		<li id="menu-item-17949" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17949 menu-item-has-description"><a href="https://www.hexacta.com/hexacta-history/">Our History<span class="menu-item-description">Word-class innovate IT solutions four our Nearshore and Offshore clients.</span></a></li>
+		<li id="menu-item-6913" class="megamenu columns-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-6913 menu-item-has-description"><a href="https://www.hexacta.com/software-development-centers/">Software Development Centers<span class="menu-item-description">Very competitive rates due to lower-cost development centers in Argentina.</span></a></li>
+		<li id="menu-item-7312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7312 menu-item-has-description"><a href="https://www.hexacta.com/corporate-social-responsibility/">Corporate Social Responsibility<span class="menu-item-description">Corporate values reflected in many CSR initiatives.</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-6908" class="displayNone menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6908"><a href="http://-">–</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6912 menu-item-has-description"><a href="https://www.hexacta.com/alliances-and-certifications/">Alliances &amp; Certifications<span class="menu-item-description">Proven knowledge and skills to perform with high standards of competence.</span></a></li>
+		<li id="menu-item-7205" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7205 menu-item-has-description"><a href="https://www.hexacta.com/awards-and-recognitions/">Awards &amp; Recognitions<span class="menu-item-description">Innovation and successful projects led to many prestigious awards and recognitions.</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8114" class="megamenu columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8114"><a>Our People</a>
+<ul class="sub-menu">
+	<li id="menu-item-7161" class="displayNone menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7161"><a href="http://-">–</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6928" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6928 menu-item-has-description"><a href="https://www.hexacta.com/hr-approach/">Human Resources Approach<span class="menu-item-description">High-performance teams impact on the final product´s quality.</span></a></li>
+		<li id="menu-item-6930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6930 menu-item-has-description"><a href="https://www.hexacta.com/profiles/">Profiles<span class="menu-item-description">Interdisciplinary work teams offer a broad set of solutions.</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-6919" class="displayNone menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6919"><a href="http://-">–</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6929" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6929 menu-item-has-description"><a href="https://www.hexacta.com/career-plan/">Career Plan<span class="menu-item-description">Integral career development program for each employee.</span></a></li>
+		<li id="menu-item-6931" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6931 menu-item-has-description"><a href="https://www.hexacta.com/management/">Management<span class="menu-item-description">Success has meaning when it is based on ethical grounds.</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-9462" class="megamenu columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9462"><a>Our Work</a>
+<ul class="sub-menu">
+	<li id="menu-item-9380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-9380"><a>Services</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7897" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7897 menu-item-has-description"><a href="https://www.hexacta.com/custom-software-development/">Custom Software Development<span class="menu-item-description">We embrace a client-centric approach.</span></a></li>
+		<li id="menu-item-7908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7908 menu-item-has-description"><a href="https://www.hexacta.com/ui-ux-design-services/">UI &amp; UX Design<span class="menu-item-description">Usability defines business success.</span></a></li>
+		<li id="menu-item-7853" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7853 menu-item-has-description"><a href="https://www.hexacta.com/software-testing-services-qa/">Testing &amp; QA<span class="menu-item-description">Strong focus on product quality.</span></a></li>
+		<li id="menu-item-7852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7852 menu-item-has-description"><a href="https://www.hexacta.com/software-consulting-services/">Consulting<span class="menu-item-description">A service and a way of working.</span></a></li>
+		<li id="menu-item-7869" class="sub-menu-drop menu-item menu-item-type-post_type menu-item-object-page menu-item-7869 menu-item-has-description"><a href="https://www.hexacta.com/consulting-software/agile-training/">Agile Training: Scrum<span class="menu-item-description">Helping clients be more efficient.</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-8115" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8115"><a>Why Us</a>
+	<ul class="sub-menu">
+		<li id="menu-item-9561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9561 menu-item-has-description"><a href="https://www.hexacta.com/technical-excellence/">Technical Excellence<span class="menu-item-description">Mature development processes and high quality solutions.</span></a></li>
+		<li id="menu-item-6925" class="sub-menu-drop menu-item menu-item-type-post_type menu-item-object-page menu-item-6925"><a href="https://www.hexacta.com/technical-excellence/methodology/">Methodology</a></li>
+		<li id="menu-item-6923" class="sub-menu-drop menu-item menu-item-type-post_type menu-item-object-page menu-item-6923"><a href="https://www.hexacta.com/technical-excellence/hexacta-architecture-team/">Hexacta Architecture Team (HAT)</a></li>
+		<li id="menu-item-9559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9559 menu-item-has-description"><a href="https://www.hexacta.com/high-performance-teams/">High performance teams<span class="menu-item-description">The best professionals in the region.</span></a></li>
+		<li id="menu-item-9558" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9558 menu-item-has-description"><a href="https://www.hexacta.com/client-focus/">Client Focus<span class="menu-item-description">Strong commitment to our clients’ success.</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-8116" class="megamenu columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8116"><a>Our Experience</a>
+<ul class="sub-menu">
+	<li id="menu-item-7162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7162"><a>Main practices</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7234 menu-item-has-description"><a href="https://www.hexacta.com/net-development-services/">.Net<span class="menu-item-description">Experts at building .NET platforms.</span></a></li>
+		<li id="menu-item-7235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7235 menu-item-has-description"><a href="https://www.hexacta.com/java-development-services/">Java<span class="menu-item-description">Robust architecture supporting user demands.</span></a></li>
+		<li id="menu-item-8103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8103 menu-item-has-description"><a href="https://www.hexacta.com/angular-development-services/">Angular<span class="menu-item-description">Featuring the best developers.</span></a></li>
+		<li id="menu-item-7237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7237 menu-item-has-description"><a href="https://www.hexacta.com/mobile-development-services/">Mobile<span class="menu-item-description">Exploiting the potential of mobile devices.</span></a></li>
+		<li id="menu-item-14569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14569 menu-item-has-description"><a href="https://www.hexacta.com/machine-learning-solutions/">Machine Learning<span class="menu-item-description">GOING BEYOND WITH YOUR DATA</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-8117" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-8117"><a>Main Industries</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6941" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6941 menu-item-has-description"><a href="https://www.hexacta.com/industries/financial-services/">Financial Services<span class="menu-item-description">Using technology in a fast changing world.</span></a></li>
+		<li id="menu-item-8416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8416 menu-item-has-description"><a href="https://www.hexacta.com/industries/media/">Media<span class="menu-item-description">Helping the industry adjust to a new world.</span></a></li>
+		<li id="menu-item-6938" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6938 menu-item-has-description"><a href="https://www.hexacta.com/industries/oil-and-gas/">Oil &amp; Gas<span class="menu-item-description">Our extensive experience in the industry.</span></a></li>
+		<li id="menu-item-8530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8530 menu-item-has-description"><a href="https://www.hexacta.com/industries/logistics-and-transportation/">Logistics &amp; Transportation<span class="menu-item-description">One of the most complex industries in the world.</span></a></li>
+		<li id="menu-item-6942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6942 menu-item-has-description"><a href="https://www.hexacta.com/industries/telecommunications/">Telecommunications<span class="menu-item-description">Adding value through the latest technologies.</span></a></li>
+		<li id="menu-item-6936" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6936 menu-item-has-description"><a href="https://www.hexacta.com/industries/government/">Government<span class="menu-item-description">Transparency through technology.</span></a></li>
+		<li id="menu-item-6939" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6939 menu-item-has-description"><a href="https://www.hexacta.com/industries/retail/">Retail<span class="menu-item-description">Standing out in a highly competitive industry.</span></a></li>
+		<li id="menu-item-6932" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6932 menu-item-has-description"><a href="https://www.hexacta.com/industries/associations-and-nonprofit-organizations/">NPO<span class="menu-item-description">Technology that heals.</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-18713" class="megamenu columns-2 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18713"><a>Insights</a>
+<ul class="sub-menu">
+	<li id="menu-item-18715" class="displayNone menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18715"><a href="http://-">–</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19286"><a href="https://www.hexacta.com/all-post/">Blog</a></li>
+		<li id="menu-item-18714" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18714"><a href="https://www.hexacta.com/white-papers/">White Papers</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul></div></div><button id="menu-toggle" class="menu-toggle" aria-controls="site-navigation" aria-expanded="false">Menu</button></nav>
+<form method="get" class="form-search" id="form-search" action="https://www.hexacta.com/" style="display: none;">
+	<label for="search-field" class="screen-reader-text">Search</label>
+	<input type="search" value="" maxlength="50" placeholder="Type and press enter" name="s" class="search-field" id="search-field">
+</form><div class="social-links"><ul id="menu-social-menu" class="social-links-items"><li><ul class="nav navbar-nav navbar-right"><li><a class="searchbox"><i class="fa fa-search" aria-hidden="true"></i><span>Search</span></a></li><li><a href="http://careers.hexacta.com/" class="hiring" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-bullhorn" aria-hidden="true"></i><span>We are Hiring</span></a></li><li><a href="https://www.hexacta.com/contact/" class="contactus" data-toggle="tooltip" data-placement="bottom"><i class="fa fa-envelope-o" aria-hidden="true"></i><span>Contact Us</span></a></li></ul></li></ul></div>
+
+</div></header>
+
+<header class="page-header intro-container sticky"><div class="intro" id="intro"><div class="intro-inner" style="background-repeat: no-repeat; background-origin: padding-box;"><h1 class="page-title intro-title parallax-multiply">Search Results <span>outsource</span></h1></div></div></header>
+
+<div id="content" class="site-content">
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main clearfix" role="main">
+
+
+	<section id="search-results" class="search-results">
+
+		<div id="posts" class="posts posts-list clearfix packery" itemscope="" itemtype="http://schema.org/ItemList" style="position: relative; height: 1314.34px;">
+ 
+<article id="post-20830" class="post-20830 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-covid-bottom tag-business-tips tag-outsourcing tag-outsourcing-benefits tag-outsourcing-software tag-software-development" itemscope="" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" style="position: absolute; left: 0px; top: 0px;">
+
+	
+		<div class="entry-media">
+	 
+			<figure class="post-thumbnail" itemprop="image">
+
+				<a href="https://www.hexacta.com/hiring-a-development-team-factors-that-scream-outsource-now/" title="Hiring a development team: factors that scream outsource now!"><img width="100" height="67" alt="Do you need a software development company 3 key factors that scream YES!" loading="lazy" data-src="https://www.hexacta.com/wp-content/uploads/2020/10/Do-you-need-a-software-development-company-3-key-factors-that-scream-YES-8.jpg" class="attachment-thumbnail size-thumbnail wp-post-image lazyloaded" src="https://www.hexacta.com/wp-content/uploads/2020/10/Do-you-need-a-software-development-company-3-key-factors-that-scream-YES-8.jpg"><noscript><img width="100" height="67" src="https://www.hexacta.com/wp-content/uploads/2020/10/Do-you-need-a-software-development-company-3-key-factors-that-scream-YES-8.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Do you need a software development company 3 key factors that scream YES!" loading="lazy" /></noscript></a>
+			</figure>
+
+		</div>
+
+		<div class="entry-inner"><header class="entry-header sticky"><h1 class="entry-title" itemprop="name"><a href="https://www.hexacta.com/hiring-a-development-team-factors-that-scream-outsource-now/" rel="bookmark">Hiring a development team: factors that scream outsource now!</a></h1></header><div class="entry-content" itemprop="description"><p class="post-excerpt"><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">5</span> <span class="rt-label rt-postfix">minutes</span></span> Do you need to scale up your business? Your in-house team does…</p>
+<div class="link-more"><a href="https://www.hexacta.com/hiring-a-development-team-factors-that-scream-outsource-now/">Continue reading<span class="screen-reader-text"> "Hiring a development team: factors that scream outsource now!"</span>…</a></div><a class="simple color-success size-small button btn-back code-btn" href="https://www.hexacta.com/all-post/" onmouseover="self.status=document.referrer;return true"><i class="fa fa-angle-left" aria-hidden="true"></i> See All Posts</a> </div><div class="entry-meta"><time datetime="2020-10-19T09:30:01-03:00" class="entry-date entry-meta-element published" title="October 19, 2020 | 9:30 am" itemprop="datePublished">19 Oct 2020</time></div></div>
+</article>
+ 
+<article id="post-18468" class="post-18468 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-covid-bottom tag-benefits-outsourcing tag-best-companies tag-business-tips tag-outsourcing tag-outsourcing-company tag-software-development tag-staff-augmentation" itemscope="" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" style="position: absolute; left: 355px; top: 0px;">
+
+	
+		<div class="entry-media">
+	 
+			<figure class="post-thumbnail" itemprop="image">
+
+				<a href="https://www.hexacta.com/white-paper-statistics-that-show-why-to-outsource-your-software-development-team/" title="White Paper: Statistics that show why to outsource your software team"><img width="100" height="67" alt="White Paper Statistics that show why to outsource your software development team" loading="lazy" data-srcset="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team.jpg 500w" data-src="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg" data-sizes="(max-width: 100px) 100vw, 100px" class="attachment-thumbnail size-thumbnail wp-post-image lazyloaded" src="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg" sizes="(max-width: 100px) 100vw, 100px" srcset="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team.jpg 500w"><noscript><img width="100" height="67" src="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="White Paper Statistics that show why to outsource your software development team" loading="lazy" srcset="https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/White-Paper-Statistics-that-show-why-to-outsource-your-software-development-team.jpg 500w" sizes="(max-width: 100px) 100vw, 100px" /></noscript></a>
+			</figure>
+
+		</div>
+
+		<div class="entry-inner"><header class="entry-header sticky"><h1 class="entry-title" itemprop="name"><a href="https://www.hexacta.com/white-paper-statistics-that-show-why-to-outsource-your-software-development-team/" rel="bookmark">White Paper: Statistics that show why to outsource your software team</a></h1></header><div class="entry-content" itemprop="description"><p class="post-excerpt"><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">2</span> <span class="rt-label rt-postfix">minutes</span></span> This is a complete guide with interesting facts about software development outsourcing…</p>
+<div class="link-more"><a href="https://www.hexacta.com/white-paper-statistics-that-show-why-to-outsource-your-software-development-team/">Continue reading<span class="screen-reader-text"> "White Paper: Statistics that show why to outsource your software team"</span>…</a></div><a class="simple color-success size-small button btn-back code-btn" href="https://www.hexacta.com/all-post/" onmouseover="self.status=document.referrer;return true"><i class="fa fa-angle-left" aria-hidden="true"></i> See All Posts</a> </div><div class="entry-meta"><time datetime="2020-03-16T10:27:09-03:00" class="entry-date entry-meta-element published" title="March 16, 2020 | 10:27 am" itemprop="datePublished">16 Mar 2020</time></div></div>
+</article>
+ 
+<article id="post-18437" class="post-18437 post type-post status-publish format-standard has-post-thumbnail hentry category-blog tag-benefits-outsourcing tag-business-tips tag-outsourcing-software-development tag-remote-teams tag-software-outsourcing tag-virtual-teams" itemscope="" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" style="position: absolute; left: 711px; top: 0px;">
+
+	
+		<div class="entry-media">
+	 
+			<figure class="post-thumbnail" itemprop="image">
+
+				<a href="https://www.hexacta.com/what-not-to-do-when-using-an-outsourced-software-team/" title="What not to do when working with an outsourced software team"><img width="100" height="67" alt="What not to do when using an outsourced software team" loading="lazy" data-srcset="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-657x438.jpg 657w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-768x512.jpg 768w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5.jpg 800w" data-src="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg" data-sizes="(max-width: 100px) 100vw, 100px" class="attachment-thumbnail size-thumbnail wp-post-image lazyloaded" src="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg" sizes="(max-width: 100px) 100vw, 100px" srcset="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-657x438.jpg 657w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-768x512.jpg 768w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5.jpg 800w"><noscript><img width="100" height="67" src="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="What not to do when using an outsourced software team" loading="lazy" srcset="https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-420x280.jpg 420w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-657x438.jpg 657w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5-768x512.jpg 768w, https://www.hexacta.com/wp-content/uploads/2020/03/What-not-to-do-when-using-an-outsourced-software-team-5.jpg 800w" sizes="(max-width: 100px) 100vw, 100px" /></noscript></a>
+			</figure>
+
+		</div>
+
+		<div class="entry-inner"><header class="entry-header sticky"><h1 class="entry-title" itemprop="name"><a href="https://www.hexacta.com/what-not-to-do-when-using-an-outsourced-software-team/" rel="bookmark">What not to do when working with an outsourced software team</a></h1></header><div class="entry-content" itemprop="description"><p class="post-excerpt"><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">5</span> <span class="rt-label rt-postfix">minutes</span></span> Working and handling outsourced teams it is not just an easy task.…</p>
+<div class="link-more"><a href="https://www.hexacta.com/what-not-to-do-when-using-an-outsourced-software-team/">Continue reading<span class="screen-reader-text"> "What not to do when working with an outsourced software team"</span>…</a></div><a class="simple color-success size-small button btn-back code-btn" href="https://www.hexacta.com/all-post/" onmouseover="self.status=document.referrer;return true"><i class="fa fa-angle-left" aria-hidden="true"></i> See All Posts</a> </div><div class="entry-meta"><time datetime="2020-03-09T09:53:04-03:00" class="entry-date entry-meta-element published" title="March 9, 2020 | 9:53 am" itemprop="datePublished">9 Mar 2020</time></div></div>
+</article>
+ 
+<article id="post-16474" class="post-16474 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-covid-bottom tag-argentina tag-benefits-outsourcing tag-business-tips tag-global-outsourcing-business-list tag-outsorcing-software tag-outsourcing-benefits tag-software-development" itemscope="" itemprop="blogPost" itemtype="http://schema.org/BlogPosting" style="position: absolute; left: 0px; top: 641px;">
+
+	
+		<div class="entry-media">
+	 
+			<figure class="post-thumbnail" itemprop="image">
+
+				<a href="https://www.hexacta.com/outsourcing-software-why-outsource-software-in-argentina/" title="Outsourcing software: Why outsource in Argentina? [UPDATED 2021]"><img width="100" height="76" alt="Puerto Madero's view" loading="lazy" data-src="https://www.hexacta.com/wp-content/uploads/2019/03/Why-outsource-in-Argentina-6.jpg" class="attachment-thumbnail size-thumbnail wp-post-image lazyloaded" src="https://www.hexacta.com/wp-content/uploads/2019/03/Why-outsource-in-Argentina-6.jpg"><noscript><img width="100" height="76" src="https://www.hexacta.com/wp-content/uploads/2019/03/Why-outsource-in-Argentina-6.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Puerto Madero&#039;s view" loading="lazy" /></noscript></a>
+			</figure>
+
+		</div>
+
+		<div class="entry-inner"><header class="entry-header sticky"><h1 class="entry-title" itemprop="name"><a href="https://www.hexacta.com/outsourcing-software-why-outsource-software-in-argentina/" rel="bookmark">Outsourcing software: Why outsource in Argentina? [UPDATED 2021]</a></h1></header><div class="entry-content" itemprop="description"><p class="post-excerpt"><span class="rt-reading-time" style="display: block;"><span class="rt-label rt-prefix">Reading Time: </span> <span class="rt-time">5</span> <span class="rt-label rt-postfix">minutes</span></span> Outsourcing software might be a difficult decision to make. Whether you’re developing…</p>
+<div class="link-more"><a href="https://www.hexacta.com/outsourcing-software-why-outsource-software-in-argentina/">Continue reading<span class="screen-reader-text"> "Outsourcing software: Why outsource in Argentina? [UPDATED 2021]"</span>…</a></div><a class="simple color-success size-small button btn-back code-btn" href="https://www.hexacta.com/all-post/" onmouseover="self.status=document.referrer;return true"><i class="fa fa-angle-left" aria-hidden="true"></i> See All Posts</a> </div><div class="entry-meta"><time datetime="2019-03-11T11:10:52-03:00" class="entry-date entry-meta-element published" title="March 11, 2019 | 11:10 am" itemprop="datePublished">11 Mar 2019</time></div></div>
+</article></div><div class="pagination"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://www.hexacta.com/page/2/?s=outsource">2</a>
+<a class="page-numbers" href="https://www.hexacta.com/page/3/?s=outsource">3</a>
+<span class="page-numbers dots">…</span>
+<a class="page-numbers" href="https://www.hexacta.com/page/17/?s=outsource">17</a>
+<a class="next page-numbers" href="https://www.hexacta.com/page/2/?s=outsource">»</a></div>
+	</section>
+
+	
+
+		</main><!-- /#main -->
+	</div><!-- /#primary -->
+</div><!-- /#content -->
+
+
+
+<footer id="colophon" class="site-footer" role="contentinfo" itemscope="" itemtype="http://schema.org/WPFooter">
+
+<footer class="footer" id="page-footer"><div class="sectionDivider"></div><div class="lg-container-layout background-dark left-to-right-clip-path"><div class="container"><div class="row"><div class="col-xs-12"><h2 class="h2-title color-light text-center">LET'S WORK TOGETHER</h2><form class="form-contact" action="#" method="post"><div class="footer-contact-form"><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f20&amp;version=1"></script><span class="moon-ray-form-placeholder-54115"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f20" type="text/css"><div class="moonray-form-p2c215361f20 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-542548807807" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-542548807807" required="" value="" placeholder="NAME" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-922175163932" class="moonray-form-label"></label><input name="lastname" required="" type="text" class="moonray-form-input" id="mr-field-element-922175163932" value="" placeholder="LAST NAME" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-398559736656" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-398559736656" required="" value="" placeholder="EMAIL" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-667907100085" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-667907100085" value="" placeholder="COMPANY"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-textarea"><label for="mr-field-element-756284445571" class="moonray-form-label"></label><textarea name="f1665" class="moonray-form-input" id="mr-field-element-756284445571" placeholder="YOUR MESSAGE" rows="1"></textarea></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=9v8fck66e733" width="304" height="78" role="presentation" name="a-639tw9izuot9" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="Send" class="moonray-form-input" id="mr-field-element-570500313218" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f20"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f20" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="CA4413E3FB10F5FFBC2807BB:BFDE4D4E9E36D24EB96E64C4"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:F053E37C8D865587092F04E6:E6AFAFFCD7BA9644D854CDA3"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span> </div></form></div></div><div class="row"><div class="display-flex justify-space-between align-items-center"><div class="footer-div text-center"><p class="color-light"><strong>WE ARE HIRING!</strong></p><a href="http://careers.hexacta.com/" class="btn btn-default-inverted">See more</a></div><div class="footer-div text-center"><p class="color-light"><strong>LET'S KEEP IN TOUCH</strong></p><ul class="social-links display-flex list-inline text-center"><li><a href="https://www.facebook.com/HexactaIT/"><i class="fa fa-facebook" aria-hidden="true"></i></a></li><li><a href="https://twitter.com/hexacta"><i class="fa fa-twitter" aria-hidden="true"></i></a></li><li><a href="https://www.youtube.com/user/Hexacta00"><i class="fa fa-youtube" aria-hidden="true"></i></a></li><li><a href="https://instagram.com/hexactapics/"><i class="fa fa-instagram" aria-hidden="true"></i></a></li><li><a href="https://www.linkedin.com/company/10826?trk=NUS_CMPY_FOL-co"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li></ul></div><div class="footer-div text-center"><p class="color-light"><strong>RECEIVE OUR NEWSLETTER</strong></p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f19&amp;version=1"></script><span class="moon-ray-form-placeholder-86019"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f19" type="text/css"><div class="moonray-form-p2c215361f19 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-915555517795" class="moonray-form-label"></label><input name="email" required="" type="email" class="moonray-form-input" id="mr-field-element-915555517795" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-contracted moonray-form-element-wrapper-alignment-left moonray-form-input-type-submit"><input type="submit" name="submit-button" value="Subscribe" class="moonray-form-input" id="mr-field-element-493196211057" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f19"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f19" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="C8943B1A2FFA80CF0718460D:526C44B227E1216CC2AC3765"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:206BAAC19E57A2C2BD4CE217:F65CA0CE05D52A9D7DD61F9C"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></div></div></div></div></div><div class="md-container-layout background-dark-gray"><div class="container"><div class="row"><div class="col-xs-12 col-sm-3 col-md-2"><h6 class="color-accent">US</h6><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">SEATTLE AREA</strong> 625 4th Ave #205<br>Kirkland, WA 98033<br> +1 703 842 9455<br></address></div></div><div class="col-xs-12 col-sm-9 col-md-8"><div class="row"><div class="col-xs-12 col-sm-8 col-md-8"><h6 class="color-accent">ARGENTINA</h6><div class="row"><div class="col-xs-12 col-sm-4"><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">BUENOS AIRES</strong> Clay 2954<br>C1426DLD 54-11-5299-5400</address><address class="col-xs-12 col-sm-12"><strong class="display-block">PARANÁ</strong> San Martín 902 1º P<br> Of. 6, E3100AAT</address></div></div><div class="col-xs-12 col-sm-4"><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">LA PLATA</strong> Calle 58 480<br> B1900BPT</address><address class="col-xs-13 col-sm-12"><strong class="display-block">BAHÍA BLANCA</strong> Belgrano 133 - 2º P<br> B8000IJC</address></div></div><div class="col-xs-12 col-sm-4"><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">SALTA</strong> Pasaje Arteaga 1157</address><address class="col-xs-13 col-sm-12"><strong class="display-block">CÓRDOBA</strong> La Rioja 532, 4º Piso Oficina F</address></div></div></div></div><div class="col-xs-12 col-sm-4 col-md-4"><h6 class="color-accent">BRAZIL</h6><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">SÃO PAULO</strong> Cardoso de Melo 1470 - 8<br></address></div></div><div class="col-xs-12 col-sm-4 col-md-4"><h6 class="color-accent">URUGUAY</h6><div class="row"><address class="col-xs-12 col-sm-12"><strong class="display-block">MONTEVIDEO</strong> Roque Graseras 857, 11300<br></address></div></div></div></div><div class="col-xs-12 col-md-2"><div class="row"><div class="col-sm-6 col-md-12"><h6 class="color-accent">COLOMBIA</h6><div class="row"><address class="col-xs-12"><strong class="display-block">BOGOTÁ</strong>Carrera 15 # 100 - 43 Oficina 602</address></div></div></div></div></div> </div></div><div class="sm-container-layout background-black"><div class="container"><div class="row"><p class="text-center"><small>© Hexacta, Copyright 2021 - CUIT: 30-70704683-6</small></p></div></div></div></footer>
+
+</footer>
+
+
+	</div><!-- /.site-inner -->
+</div><!-- /#page -->
+
+<div style="display: none;"></div><!--Start of Tawk.to Script (0.3.3)-->
+
+<!--End of Tawk.to Script (0.3.3)--><div id="pum-22339" class="pum pum-overlay pum-theme-14004 pum-theme-default-theme popmake-overlay click_open" data-popmake="{&quot;id&quot;:22339,&quot;slug&quot;:&quot;a-beginners-guide-to-scrum-in-agile-projects&quot;,&quot;theme_id&quot;:14004,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;,&quot;cookie_name&quot;:null}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-22339" class="pum-container popmake theme-14004 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal">
+<h3>A Beginner’s Guide to Scrum in Agile Projects</h3>
+<p>READY TO LEARN FROM THIS GUIDE?<br>
+Scrum has proven to be very useful in any field and industry, regardless of its complexity. This quick and easy guide aims to show the main insights this methodology has, how it works, and other important aspects to consider if you want to start in the Agile world and improve your company’s results.</p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f30&amp;version=1"></script><span class="moon-ray-form-placeholder-49946"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f30" type="text/css"><div class="moonray-form-p2c215361f30 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=o3p94b6iwrxv" width="304" height="78" role="presentation" name="a-myk0yg76wzln" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-1" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f30"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f30" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="7F3F5FDA9946ECC7A3587CE7:D7521066B7A569A1D8AC11EE"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:1EEFDDD5F546D95B6C14279C:EDC7A86EFA288ABBBBEB1F7F"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2021/05/tablet_whitepaper_scrum.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2021/05/tablet_whitepaper_scrum.jpg" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE            </button>
+		
+	</div>
+
+</div>
+<div id="pum-21735" class="pum pum-overlay pum-theme-14005 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:21735,&quot;slug&quot;:&quot;event-driven-architecture-eda&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-21735&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-21735&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.white-paper-statistics&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;left top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-21735" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal">
+<h3>Event-Driven Architecture (EDA) An old concept for a modern context</h3>
+<p>The concept of Event-Driven Architecture (EDA) may not be new in the software development industry; however, it is becoming stronger once again, thanks to its flexibility and adaptability by using information in real time. At the same time, EDA offers companies the opportunity to process events and flows of events that result in immediate analysis.</p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f28&amp;version=1"></script><span class="moon-ray-form-placeholder-45932"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f28" type="text/css"><div class="moonray-form-p2c215361f28 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=tk0of8vbpr7n" width="304" height="78" role="presentation" name="a-tdl5sbxpa7lh" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-2" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f28"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f28" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="E8A3ECDBB831A508E195ADDF:978A5AEAC6B41D565E991B87"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:CAF5FD353D48E1985EC1CC5C:A6EAE2DCC1F277B89A6A65CF"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2021/03/montaje-even-driven.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2021/03/montaje-even-driven.jpg" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+<div id="pum-18221" class="pum pum-overlay pum-theme-14005 pum-theme-lightbox popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:18221,&quot;slug&quot;:&quot;statistics-why-outsource&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-18221&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-18221&quot;,&quot;key&quot;:&quot;&quot;,&quot;session&quot;:false,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:&quot;1&quot;}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;.white-paper-statistics&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;left top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;1&quot;,&quot;esc_press&quot;:&quot;1&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-18221" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal modal-statistics-why-outsource">
+<h3>READY TO TAKE A LOOK?</h3>
+<p>Many organizations around the world are transferring their IT and software development operations to third parties. For most of them, thinking about outsourcing is an issue of efficiency and focus. Don’t miss these interesting facts that show you why this might be the perfect choice for your business.</p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f15&amp;version=1"></script><span class="moon-ray-form-placeholder-5304"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f15" type="text/css"><div class="moonray-form-p2c215361f15 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=wdjlcwxwyitz" width="304" height="78" role="presentation" name="a-cp8cp0cnqb3" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-3" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f15"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f15" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="B55BC0C0C1A9B1A25D94C4B4:58C6915C05ECC46009C59F07"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:11FF2DEB21856D5956BB4CD2:DD49F482BABE61DA12C6C630"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2020/03/montaje-statistics-why-outsource.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2020/03/montaje-statistics-why-outsource.jpg" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+<div id="pum-14010" class="pum pum-overlay pum-theme-14005 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:14010,&quot;slug&quot;:&quot;why-to-have-it&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-14010&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.white-paper&quot;,&quot;do_default&quot;:1,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:false,&quot;position_right&quot;:false,&quot;position_left&quot;:false,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center &quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-14010" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal">
+<h3>WHY TO HAVE IT?</h3>
+<p>DevOps is a new way of collaboration that makes processes change for the better. The idea of this paper is to understand why you need DevOps and to learn how you can get started. You will walk through the key ideas that bring development and operations together to produce higher-quality software.</p>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2017/10/montaje-3.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2017/10/montaje-3.png" alt="White Paper" /></noscript></div>
+<div class="form-white-paper"><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f17&amp;version=1"></script><span class="moon-ray-form-placeholder-35098"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f17" type="text/css"><div class="moonray-form-p2c215361f17 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=m1vk9fcxsx3a" width="304" height="78" role="presentation" name="a-2pedqxjsgk1v" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-4" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f17"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f17" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="C0BBEFE3328B5F55E164F983:FDBCDD4D3047FAFC86A2FCB4"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:AF81BEACBCEE84EA8C591617:609AB67F4EA04C2B432F8B7D"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span> <p></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+<div id="pum-16968" class="pum pum-overlay pum-theme-14005 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:16968,&quot;slug&quot;:&quot;why-to-have-it-5-steps&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-16968&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-16968&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.white-paper-5-steps&quot;,&quot;do_default&quot;:1,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:false,&quot;position_right&quot;:false,&quot;position_left&quot;:false,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center &quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-16968" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal modal-5-steps">
+<h3>WHY TO HAVE IT?</h3>
+<p>With an eye on business demands on having clean code, the idea of Technical Debt has emerged. The problem is a software product can only handle so much Technical Debt before it begins to crumble under the weight of its own inefficiency. Learn here how to tackle Technical Debt properly.  </p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f17&amp;version=1"></script><span class="moon-ray-form-placeholder-72829"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f17" type="text/css"><div class="moonray-form-p2c215361f17 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=dysruxrniz7n" width="304" height="78" role="presentation" name="a-idgx1po5fdf7" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-5" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f17"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f17" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="BDF4FE0F98FD5A6E8CF9DCDC:E84D204C07D6CA3380AD134C"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:156AD4A6D09636F6A04B298C:6A914F7151DB4C8B07F94718"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2019/07/montaje-4.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2019/07/montaje-4.png" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+<div id="pum-17390" class="pum pum-overlay pum-theme-14005 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:17390,&quot;slug&quot;:&quot;why-to-have-it-microservices-vs-serverless&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-17390&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-17390&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.white-paper-microservices&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:false,&quot;position_right&quot;:false,&quot;position_left&quot;:false,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center &quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-17390" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal">
+<h3>WHY TO HAVE IT?</h3>
+<p>Companies who are successfully incorporating continuous innovation into their business practices have changed the way their enterprise software is deployed. Trends in application development and deployment support organization-wide transformation but which type of architecture is right for you? </p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f16&amp;version=1"></script><span class="moon-ray-form-placeholder-45167"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f16" type="text/css"><div class="moonray-form-p2c215361f16 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=54tytk63e6j7" width="304" height="78" role="presentation" name="a-ok5jf4ani4hs" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-6" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f16"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f16" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="919331FAA5F09A54EC4F8A3C:9363571F9994B0A7EE1EA295"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:6F4726959673A1959B60D6E5:B2462562ED821FFFC5CF3177"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2019/10/montaje-microservices.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2019/10/montaje-microservices.jpg" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+<div id="pum-20010" class="pum pum-overlay pum-theme-14005 pum-theme-default-theme popmake-overlay pum-click-to-close click_open" data-popmake="{&quot;id&quot;:20010,&quot;slug&quot;:&quot;guide-to-choosing-the-right-software&quot;,&quot;theme_id&quot;:14005,&quot;cookies&quot;:[{&quot;event&quot;:&quot;on_popup_open&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-20010&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}},{&quot;event&quot;:&quot;on_popup_close&quot;,&quot;settings&quot;:{&quot;name&quot;:&quot;pum-20010&quot;,&quot;key&quot;:&quot;&quot;,&quot;time&quot;:&quot;1 month&quot;,&quot;path&quot;:1}}],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;.white-paper-guide-to-choosing-the-right-software&quot;,&quot;do_default&quot;:null,&quot;cookie&quot;:{&quot;name&quot;:null}}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;position_bottom&quot;:false,&quot;position_right&quot;:false,&quot;position_left&quot;:false,&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;normal&quot;,&quot;responsive_min_width&quot;:&quot;300px&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;800px&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center &quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;slide&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center center&quot;,&quot;overlay_zindex&quot;:&quot;1999999998&quot;,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;x&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:&quot;true&quot;,&quot;esc_press&quot;:&quot;true&quot;,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-hidden="true">
+
+	<div id="popmake-20010" class="pum-container popmake theme-14005 pum-responsive pum-responsive-normal responsive size-normal">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content">
+			<div class="why-modal">
+<h3>WHY TO HAVE IT?</h3>
+<p>In the search for the perfect solution, it is not uncommon to find that off-the-shelf products don’t offer solutions fitting your needs and business model. This is where a software development partner comes in. If you are looking to understand what software consultants companies can do for you, keep reading.</p>
+<div class="form-white-paper">
+<p><script type="text/javascript" src="https://forms.ontraport.com/v2.4/include/formEditor/genbootstrap.php?method=script&amp;uid=p2c215361f27&amp;version=1"></script><span class="moon-ray-form-placeholder-36390"><link rel="stylesheet" href="//optassets.ontraport.com/opt_assets/static/css/moonrayform.paymentplandisplay.css" type="text/css"><link rel="stylesheet" href="https://optassets.ontraport.com/opt_assets/css/form.default.min.css" type="text/css"><link rel="stylesheet" href="https://forms.ontraport.com/v2.4/include/formEditor/gencss.php?uid=p2c215361f27" type="text/css"><div class="moonray-form-p2c215361f27 ussr"><div class="moonray-form moonray-form-label-pos-stacked">
+<form class="moonray-form-clearfix" action="https://forms.ontraport.com/v2.4/form_processor.php?" method="post" accept-charset="UTF-8" novalidate="novalidate">
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-399451575098" class="moonray-form-label"></label><input name="firstname" type="text" class="moonray-form-input" id="mr-field-element-399451575098" required="" value="" placeholder="Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-63235905087" class="moonray-form-label"></label><input name="lastname" type="text" class="moonray-form-input" id="mr-field-element-63235905087" required="" value="" placeholder="Last Name" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-email"><label for="mr-field-element-565489995616" class="moonray-form-label"></label><input name="email" type="email" class="moonray-form-input" id="mr-field-element-565489995616" required="" value="" placeholder="Email" data-required="true"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-text"><label for="mr-field-element-748332731206" class="moonray-form-label"></label><input name="company//name" type="text" class="moonray-form-input" id="mr-field-element-748332731206" value="" placeholder="Company"></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-left moonray-form-input-type-checkbox"><input name="f1692" type="checkbox" class="moonray-form-input" value="1" id="mr-field-element-147198986037" checked="1" placeholder=""><label for="mr-field-element-147198986037" class="moonray-form-label">Subscribe to Our Monthly Newsletter</label></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-element-captcha"><script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script><div class="g-recaptcha" data-callback="OPCapcha_filled" data-expired-callback="OPCapcha_expired" data-sitekey="6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK"><div style="width: 304px; height: 78px;"><div><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;co=aHR0cHM6Ly93d3cuaGV4YWN0YS5jb206NDQz&amp;hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;size=normal&amp;cb=7j48xsuzdwym" width="304" height="78" role="presentation" name="a-l7qyp4ukamn" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><textarea id="g-recaptcha-response-7" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></div>
+<div class="moonray-form-element-wrapper moonray-form-element-wrapper-alignment-center moonray-form-input-type-submit"><input type="submit" name="submit-button" value="DOWNLOAD" class="moonray-form-input" id="mr-field-element-245108097000" src=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="afft_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="aff_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="sess_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="ref_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="own_" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="oprid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="contact_id" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_source" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_medium" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_term" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_content" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="utm_campaign" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="referral_page" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gclid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_op_gcid" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbc" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="_fbp" type="hidden" value=""></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uid" type="hidden" value="p2c215361f27"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="uniquep2c215361f27" type="hidden" value="1"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopsbbk" type="hidden" value="E0F5FB54BE6BC2C9EF3478E6:7C3C9D8B1072C19C7D434258"></div>
+<div class="moonray-form-element-wrapper moonray-form-input-type-hidden"><input name="mopbelg" type="hidden" value="0146721:D9D473A9A44F095DB50BDA5F:F7FC8B461D7059FC01683536"></div>
+<input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"><input type="hidden" name="submitPath" value="1"></form></div></div></span></p>
+<div class="message">
+<h4>Thanks for downloading it!</h4>
+</div>
+</div>
+<div class="form-image"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2020/07/montaje-guide-to-choosing.jpg" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="https://www.hexacta.com/wp-content/uploads/2020/07/montaje-guide-to-choosing.jpg" alt="White Paper" /></noscript></div>
+</div>
+		</div>
+
+
+				
+
+				            <button type="button" class="pum-close popmake-close" aria-label="Close">
+			x            </button>
+		
+	</div>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript" id="popup-maker-site-js-extra">
+/* <![CDATA[ */
+var pum_vars = {"version":"1.15.0","pm_dir_url":"https:\/\/www.hexacta.com\/wp-content\/plugins\/popup-maker\/","ajaxurl":"https:\/\/www.hexacta.com\/wp-admin\/admin-ajax.php","restapi":"https:\/\/www.hexacta.com\/wp-json\/pum\/v1","rest_nonce":null,"default_theme":"14004","debug_mode":"","disable_tracking":"","home_url":"\/","message_position":"top","core_sub_forms_enabled":"1","popups":[],"analytics_route":"analytics","analytics_api":"https:\/\/www.hexacta.com\/wp-json\/pum\/v1"};
+var ajaxurl = "https:\/\/www.hexacta.com\/wp-admin\/admin-ajax.php";
+var pum_sub_vars = {"ajaxurl":"https:\/\/www.hexacta.com\/wp-admin\/admin-ajax.php","message_position":"top"};
+var pum_popups = {"pum-22339":{"triggers":[],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14004","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","id":22339,"slug":"a-beginners-guide-to-scrum-in-agile-projects"},"pum-21735":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":".white-paper-statistics","do_default":null,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-21735","key":"","session":false,"time":"1 month","path":"1"}},{"event":"on_popup_close","settings":{"name":"pum-21735","key":"","session":false,"time":"1 month","path":"1"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14005","size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"left top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":21735,"slug":"event-driven-architecture-eda"},"pum-18221":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":".white-paper-statistics","do_default":null,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-18221","key":"","session":false,"time":"1 month","path":"1"}},{"event":"on_popup_close","settings":{"name":"pum-18221","key":"","session":false,"time":"1 month","path":"1"}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"14005","size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"left top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"lightbox","id":18221,"slug":"statistics-why-outsource"},"pum-14010":{"triggers":[{"type":"click_open","settings":{"extra_selectors":".white-paper","do_default":1,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-14010","key":"","time":"1 month","path":1}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":14005,"size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"center ","position_top":"100","position_bottom":0,"position_left":0,"position_right":0,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","overlay_zindex":"1999999998","id":14010,"slug":"why-to-have-it"},"pum-16968":{"triggers":[{"type":"click_open","settings":{"extra_selectors":".white-paper-5-steps","do_default":1,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-16968","key":"","time":"1 month","path":1}},{"event":"on_popup_close","settings":{"name":"pum-16968","key":"","time":"1 month","path":1}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":14005,"size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"center ","position_top":"100","position_bottom":0,"position_left":0,"position_right":0,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","overlay_zindex":"1999999998","id":16968,"slug":"why-to-have-it-5-steps"},"pum-17390":{"triggers":[{"type":"click_open","settings":{"extra_selectors":".white-paper-microservices","do_default":null,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-17390","key":"","time":"1 month","path":1}},{"event":"on_popup_close","settings":{"name":"pum-17390","key":"","time":"1 month","path":1}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":14005,"size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"center ","position_top":"100","position_bottom":0,"position_left":0,"position_right":0,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","overlay_zindex":"1999999998","id":17390,"slug":"why-to-have-it-microservices-vs-serverless"},"pum-20010":{"triggers":[{"type":"click_open","settings":{"extra_selectors":".white-paper-guide-to-choosing-the-right-software","do_default":null,"cookie":{"name":null}}}],"cookies":[{"event":"on_popup_open","settings":{"name":"pum-20010","key":"","time":"1 month","path":1}},{"event":"on_popup_close","settings":{"name":"pum-20010","key":"","time":"1 month","path":1}}],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":14005,"size":"normal","responsive_min_width":"300px","responsive_max_width":"800px","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"slide","animation_speed":"350","animation_origin":"center center","open_sound":"none","custom_sound":"","location":"center ","position_top":"100","position_bottom":0,"position_left":0,"position_right":0,"position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":0,"close_on_overlay_click":true,"close_on_esc_press":true,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"default-theme","overlay_zindex":"1999999998","id":20010,"slug":"guide-to-choosing-the-right-software"}};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+		
+<!-- Ontraport Tracking Script -->
+<script src="https://optassets.ontraport.com/tracking.js" type="text/javascript" async="true" onload="_mri=&quot;215361&quot;,_mr_domain=&quot;Hexacta1.ontraport.com&quot;,mrtracking();"></script>
+
+<!-- NEWSLETTER FORM-->
+<script src="https://app.ontraport.com/js/ontraport/opt_assets/drivers/opf.js" data-opf-uid="p2c215361f24" data-opf-params="borderColor=#ffffff&amp;borderSize=0px&amp;filloutRestrictions=true&amp;formHeight=353&amp;formWidth=480px&amp;onExitIntent=true&amp;popPosition=mc&amp;instance=n1756241591" data-_opf-register-guid="OPF_55ec598d-9f4d-3ba5-b513-29fe2b8ec65b"></script><div style="top:0;width:100%;height:100%;display:block;position:fixed;padding:0;margin:0;z-index:99999;background-color:rgba( 0, 0, 0, .5 );opacity:undefined;" id="overlay__89220b20-997a-750d-946f-a1a88acfcb04" class="opf__overlay"></div><div style="top:0;margin:0;padding:0;width:100%;display:block;text-align:center;position:fixed;height:2716px;transition:opacity .5s ease-in-out .15s, left .3s ease-in-out, right .3s ease-in-out;opacity:1;z-index:100002;left:;" id="p2c215361f24__n1756241591" class="OPF__modal-form" data-guid="OPF_55ec598d-9f4d-3ba5-b513-29fe2b8ec65b" data-init-complete="true" data-popposition="mc"><div style="opacity:1;padding:0;margin:0 auto;position:fixed;display:inline-block;box-shadow:0px 10px 60px 10px rgba( 0, 0, 0, 0.2 );box-sizing:content-box;transition:height 0.25s ease-in-out 0s, width 1s ease-in-out 0s, opacity .5s ease-in-out, top .3s ease-in-out, bottom .3s ease-in-out, left .3s ease-in-out, right .3s ease-in-out;width:480px;border:0px solid #ffffff;top:256px;left:352px;" class="OPF__modal-form__wrapper" data-original-transition="height 0.25s ease-in-out 0s, width 1s ease-in-out 0s, opacity 0.5s ease-in-out 0s, top 0.3s ease-in-out 0s, bottom 0.3s ease-in-out 0s, left 0.3s ease-in-out 0s, right 0.3s ease-in-out 0s"><div style="opacity:1;z-index:10;width:16px;height:16px;float:right;cursor:pointer;line-height:0;margin:0;padding:4px;top:-13px;right:-13px;text-align:center;box-shadow:1px 1px 3px rgba( 77, 77, 77, .3 );box-sizing:initial;position:absolute;border-radius:100%;background-color:#fff;" class="OPF__modal-form__close-button" title="Close" data-original-styles="opacity:0;z-index:10;width:16px;height:16px;float:right;cursor:pointer;line-height:0;margin:0;padding:4px;top:-18px;right:-18px;text-align:center;box-shadow:1px 1px 3px rgba( 77, 77, 77, .3 );box-sizing:initial;position:absolute;border-radius:100%;background-color:#fff;"><span style="position:relative;top:8px;font-size:20px;font-weight:bold;font-family:Arial, sans-serif;">×</span></div><iframe style="display:block;position:relative;width:100%;transition:height 0.25s ease-in-out 0s, width 1s ease-in-out 0s, opacity 0.3s ease-in-out 0s;margin:0;height:353px;opacity:1;" frameborder="0" scrolling="no" id="p2c215361f24" guid="OPF_55ec598d-9f4d-3ba5-b513-29fe2b8ec65b" src="https://forms.ontraport.com/v2.4/include/formEditor/genlightbootstrap.php?uid=p2c215361f24&amp;formType=modal&amp;formGUID=OPF_55ec598d-9f4d-3ba5-b513-29fe2b8ec65b&amp;referer=https%3A%2F%2Fwww.hexacta.com%2F&amp;formceptionID=formception-0dc6791f-4a79-0097-1a3f-37659326922e&amp;__opv=v1" class="OPF__modal-form__iframe" data-original-transition="height 0.25s ease-in-out 0s, width 1s ease-in-out 0s, opacity 0.3s ease-in-out 0s"></iframe></div></div>
+
+<!-- HEXACTA SUMMIT FORM-->
+<!-- <script type='text/javascript' async='true' src='https://app.ontraport.com/js/ontraport/opt_assets/drivers/opf.js' data-opf-uid='p2c215361f31' data-opf-params='borderColor=#ffffff&borderSize=0px&formHeight=621&formWidth=460px&maxTriggers=1&onVisitDuration=2&popPosition=mc&timeframe=24&instance=2146795855'></script> -->
+
+ 
+
+<script defer="" src="https://www.hexacta.com/wp-content/cache/autoptimize/js/autoptimize_e117a898744eebe0ee679ca6793e0360.js"></script>
+
+<iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f17" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f30" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f15" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f16" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f19" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f17" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f17" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f28" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f20" style="display: none;"></iframe><iframe width="0" height="0" frameborder="0" name="postmessage-p2c215361f27" style="display: none;"></iframe><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=c45t3smq5yar" name="c-myk0yg76wzln" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=3vwpgv1iupg" name="c-639tw9izuot9" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=u27bf8wlge7n" name="c-tdl5sbxpa7lh" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=lmp5o98jrcli" name="c-cp8cp0cnqb3" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=6d21lhli09q5" name="c-idgx1po5fdf7" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=ecwghsyzrxjg" name="c-2pedqxjsgk1v" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=oi73p75tygsy" name="c-ok5jf4ani4hs" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div style="background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 3px; position: absolute; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0; visibility: hidden; z-index: 2000000000; left: 0px; top: -10000px;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.05;"></div><div class="g-recaptcha-bubble-arrow" style="border: 11px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -11px; z-index: 2000000000;"></div><div class="g-recaptcha-bubble-arrow" style="border: 10px solid transparent; width: 0px; height: 0px; position: absolute; pointer-events: none; margin-top: -10px; z-index: 2000000000;"></div><div style="z-index: 2000000000; position: relative;"><iframe title="Desafío de reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es-419&amp;v=tftmXwdbgCvrXiHxr5HGbIaL&amp;k=6LfhvKMZAAAAAB-R7B6_hQ2G-caf_HbmKBXEAehK&amp;cb=dbu54hj48u2x" name="c-l7qyp4ukamn" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><div id="boxzilla-overlay-22341" class="boxzilla-overlay" style="display: none;"></div><div class="boxzilla-container boxzilla-bottom-left-container"><div id="boxzilla-22341" class="boxzilla boxzilla-22341 boxzilla-bottom-left boxzilla-test-3-2-2-3" style="display: none;"><div id="boxzilla-box-22341-content" class="boxzilla-content"><p class=" first-child"><span class="event-driven-architecture-eda popmake-22339 pum-trigger" style="cursor: pointer;"><img alt="White Paper" data-src="https://www.hexacta.com/wp-content/uploads/2021/05/banner_whitepaper_scrum.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img alt="White Paper" src="https://www.hexacta.com/wp-content/uploads/2021/05/banner_whitepaper_scrum.png"></noscript></span></p>
+</div><span class="boxzilla-close-icon" aria-label="close">×</span></div></div><script async="" charset="UTF-8" src="https://embed.tawk.to/_s/v4/app/61483167bf6/languages/en.js"></script><div id="kaj8b6j87fdo1fgk4kogj" style="display: block !important;"><iframe src="about:blank" frameborder="0" scrolling="no" width="324px" height="44px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:6px !important; bottom:0px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:44px !important; min-width:324px !important; max-height:44px !important; max-width:324px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:324px !important; height:44px !important; display:block !important; z-index:1000001 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important;" id="knbnnvvrfe381fgk4koh9" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="350px" height="520px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:0px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:520px !important; min-width:350px !important; max-height:520px !important; max-width:350px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:350px !important; height:520px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:5px 5px  0 0 !important; pointer-events:auto !important; clip:auto !important;" id="i9ld13um105g1fgk4koj4" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="360px" height="10px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:10px !important; bottom:60px; left:auto !important; position:fixed !important; border:0 !important; min-height:10px !important; min-width:360px !important; max-height:10px !important; max-width:360px !important; padding:0 !important; margin:0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:none !important; -webkit-transform:none !important; -ms-transform:none !important; width:360px !important; height:10px !important; display:none !important; z-index:auto !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important;" id="bmfgmu5n2q2o1fgk4koi9" class="" title="chat widget"></iframe><iframe src="about:blank" frameborder="0" scrolling="no" width="90px" height="96px" style="outline:none !important; visibility:visible !important; resize:none !important; box-shadow:none !important; overflow:visible !important; background:none !important; opacity:1 !important; filter:alpha(opacity=100) !important; -ms-filter:progid:DXImageTransform.Microsoft.Alpha(Opacity 1}) !important; -mz-opacity:1 !important; -khtml-opacity:1 !important; top:auto !important; right:4px !important; bottom:26px !important; left:auto !important; position:fixed !important; border:0 !important; min-height:96px !important; min-width:90px !important; max-height:96px !important; max-width:90px !important; padding:0 !important; margin:0px 0 0 0 !important; -moz-transition-property:none !important; -webkit-transition-property:none !important; -o-transition-property:none !important; transition-property:none !important; transform:rotate(0deg) translateZ(0); -webkit-transform:rotate(0deg) translateZ(0); -ms-transform:rotate(0deg) translateZ(0); width:90px !important; height:96px !important; display:block !important; z-index:1000002 !important; background-color:transparent !important; cursor:none !important; float:none !important; border-radius:unset !important; pointer-events:auto !important; clip:auto !important; -moz-transform:rotate(0deg) translateZ(0); -o-transform:rotate(0deg) translateZ(0); transform-origin:0; -moz-transform-origin:0; -webkit-transform-origin:0; -o-transform-origin:0; -ms-transform-origin:0;" id="fb3jhhag70cg1fgk4kohu" class="" title="chat widget"></iframe></div></body></html>

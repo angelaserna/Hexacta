@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Como usuario requiero acceder en la pagina web de hexacta" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-27T18:44:44" hostname="MacBook-Pro-de-Usuario.local" time="28.343">
+  <properties/>
+  <testcase name="Realizar una busqueda en la pagina web de hexacta" classname="Como usuario requiero acceder en la pagina web de hexacta" time="28.343"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[sep 27, 2021 1:44:44 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+Starting ChromeDriver 92.0.4515.107 (87a818b10553a07434ea9e2b6dccf3cbe7895134-refs/branch-heads/4515@{#1634}) on port 45033
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1632768285.853][WARNING]: This version of ChromeDriver has not been tested with Chrome version 93.
+sep 27, 2021 1:44:45 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
